@@ -1,0 +1,23 @@
+# -------------------------
+# Frontend Project .gitignore
+# -------------------------
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Temporary / cache files
+*.tmp
+*.cache
+
+# Node modules (in case you add tools later)
+node_modules/
+
+# Environment files (rare for your project, but safe)
+.env
